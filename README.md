@@ -15,11 +15,11 @@ metadata:
     ]
 ---
 
-Updates to the Native Desktop SDK (v1.0.0)
+Updates to the Native Desktop SDK (v0.9.2)
 
 # Native Desktop SDK
 
-## 1.0.0
+## 0.9.2
 
 ### Features
 
@@ -27,3 +27,13 @@ Introduced the Native Desktop SDK platform that allows creating native desktop a
 
     - Dolby Voice Client codec, which delivers high audio quality and clarity
     - Virtual background feature that allows blurring the participants' backgrounds or replacing the participants' backgrounds with selected images
+
+### Bug Fixes
+
+- CCS-101
+- CCP-101
+
+### Changes
+
+Some changes...
+
