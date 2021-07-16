@@ -1,39 +1,11 @@
----
-title: 2021-07-28
-slug: 2021-07-28
-createdAt: 2021-07-28
-metadata:
-  title:
-  description:
-  image:
-    [
-      "https://files.readme.io/eaba311-dolbyio-seo-image.jpg",
-      "dolbyio-seo-image.jpg",
-      2048,
-      1072,
-      "#120000",
-    ]
----
+<p align="center">
+  <b>Dolby Interactivity APIs Native Desktop SDK</b><br><br>
+  <img src="https://cdn.dolby.io/wp-content/uploads/2020/05/Dolbyio-white-horizontal-e1589344433251.jpg" alt="Voxeet SDK logo" title="Voxeet SDK logo" width="200"/>
+</p>
 
-Updates to the Native Desktop SDK (v0.9.2)
 
-# Native Desktop SDK
+The Native Desktop SDK (NDS) is ...
 
-## 0.9.2
+For more information regarding the NDS refer to this [link.](https://docs.dolby.io/interactivity/docs)
 
-### Features
-
-Introduced the Native Desktop SDK platform that allows creating native desktop applications for video conferencing using only JavaScript. The platform includes the [Dolby Interactivity APIs Web SDK 3.3](doc:js-client-sdk-voxeetsdk) and the modified [Electron open-source](https://www.electronjs.org/) framework, which uses the Web SDK. The platform also offers additional features, such as:
-
-    - Dolby Voice Client codec, which delivers high audio quality and clarity
-    - Virtual background feature that allows blurring the participants' backgrounds or replacing the participants' backgrounds with selected images
-
-### Bug Fixes
-
-- CCS-101
-- CCP-101
-
-### Changes
-
-Some changes...
-
+For additional information on Dolby Interactivity APIs NDS releases, recent changes, and new features, see the Dolby Interactivity APIs Native Desktop SDK [release notes](https://docs.dolby.io/interactivity/docs).
