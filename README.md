@@ -1,6 +1,9 @@
+> 🚧 **Deprecation notice**
+> 
+> Dolby.io Communications SDK for Desktop has been deprecated. For building native desktop applications, we recommend using the vanilla Electron framework with the latest Web Client SDK.
+
 <p align="center">
   <b>Dolby.io Communications SDK for Desktop</b><br><br>
-  <img src="https://cdn.dolby.io/wp-content/uploads/2020/05/Dolbyio-white-horizontal-e1589344433251.jpg" alt="Voxeet SDK logo" title="Voxeet SDK logo" width="200"/>
 </p>
 
 
